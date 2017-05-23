@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.main {
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+
+}
+.chess {
+	background: #791c16;
+	height: 200px;
+	width: 200px;
+	float: left;
+
+}
+.chess2 {
+	background: #791c16;
+	height: 200px;
+	width: 200px;
+	float: right;
+}
+.chess3 {
+	background: #791c16;
+	height: 200px;
+	width: 200px;
+	float: left;
+
+}
+.bishop {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+img {
+	height: 200px;
+	width: 200px;
+}
+.knight {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+.white {
+	background: #fff;
+	height: 200px;
+	width: 200px;
+	float: right;
+}
+.rock {
+	height: 200px;
+	width: 200px;
+	float: left;
+}
